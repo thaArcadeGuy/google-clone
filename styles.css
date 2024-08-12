@@ -1,0 +1,50 @@
+.main {
+    margin-top: 100px;
+}
+
+.img-logo {
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-input {
+    display: block;
+    width: 400px;
+    line-height: 24px;
+    margin-top: -20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 30px;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.btn {
+    margin-top: 20px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 200px;
+}
+
+.attribution {
+    font-size: 11px;
+    color: hsl(228 45% 44%);
+    text-align: center;
+}
